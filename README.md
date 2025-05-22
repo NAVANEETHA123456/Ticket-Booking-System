@@ -7,5 +7,7 @@
 - Use dynamic elements to update availability and provide feedback.
 - 
 #TECHNOLOGIES USED: FRONTEND: 1.HTML5 2.CSS3 3.Vanilla JavaScript 4.Bootstrap Modals & Toasts
+
 #IMAGE: https://drive.google.com/file/d/1pHhcLMBnZUQdN4kXlHJBOgkc5QRn83QX/view?usp=sharing
+
 #VIDEO LINK: https://drive.google.com/file/d/1zRQc31A5Isu028WS9l7wclArWIjWlPpc/view?usp=sharing
